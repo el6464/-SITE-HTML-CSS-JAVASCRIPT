@@ -8,8 +8,8 @@ L'objectif est de concevoir une interface web moderne, responsive et interactive
 
 ## Technologies
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - bACKEND
 
@@ -27,3 +27,4 @@ L'objectif est de concevoir une interface web moderne, responsive et interactive
 Le projet est actuellement en cours de développement.
 
 De nouvelles fonctionnalités et améliorations graphiques seront ajoutées progressivement.
+Pour des raisons de sécurité et de protection du code source, les fichiers complets du site ne sont pas publiés dans ce dépôt.
